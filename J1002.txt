@@ -1,0 +1,23 @@
+Name: Josh Anderson
+Joural: J1002
+Date: 9-Sep-2021
+I received assisstance from the teachers
+I did not assist anyone
+
+1.1:
+Services using a Client/Server Model: Email and online messaging
+
+1.2:
+Yes, I think that it is important for two users to be able to have a directory of the same name. Otherwise,   names could run out very quickly.
+
+What did I learn? What is the "big idea?"
+I learned how to efficiently create journal entries using emacs. This will allow me to write down what I learn
+
+What challenges did I encounter?
+Navigating the shell proved to be a challenge in the beginning.
+
+How could this experience be improved?
+Readability of the article could be improved to flow better.
+
+Free Reflection: How has what I've learned impacted my thinking?
+The lesson has forced me to think about all of the commands needed to use emacs and the shell.
