@@ -1,0 +1,43 @@
+Name: Josh Anderson
+Journal: J1006_
+Date: 13-09-2021
+
+I received assistance from:None
+
+I assisted:None
+
+1.1:
+Git log is communicating the time, author, and notes about the commit.
+
+1.2:
+Both commands show notes about the commit
+
+1.3:
+It allows you to see important notes about commits in multiple places.
+
+2.1:
+The command shows wether the files are commited or not.
+
+2.2:
+If both files are commited and up to date, then they will be in the same section.
+
+4.1:
+Any files that have been modified, but not commited will be listed in the untracked section.
+
+4.2:
+Red shows files that are not tracked.
+
+5.1:
+The commands show you the contents of the file.
+
+What did I learn? What is the "big idea"?
+I learned how to commit files to a git repo.
+
+What challenges did I encounter?
+Recalling the commands was a challenge.
+
+How could this experience be improved?
+Make the questions more usefull to the learning experience.
+
+Free Reflection: How has what I've learned impacted my thinking?
+It has made me remind myself to commit all of my changes.
